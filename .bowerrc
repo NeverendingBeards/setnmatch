@@ -1,0 +1,5 @@
+{
+   "directory": "app/lib/components",
+   "json"     : "component.json",
+   "endpoint" : "https://bower.herokuapp.com"
+}

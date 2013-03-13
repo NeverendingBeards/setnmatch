@@ -1,0 +1,9 @@
+{
+  "name": "setnmatch",
+  "version": "0.0.1",
+  "dependencies": {
+    "less.js": "~1.4.0-b1",
+    "bootstrap": "~2.3.1",
+    "font-awesome": "~3.0.2"
+  }
+}
